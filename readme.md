@@ -18,6 +18,8 @@ A Wi-Fi connected desk or bedroom clock built on the ESP8266 (Wemos D1 Mini / No
 - 💡 **Status LED** — solid during AP mode, fast blink when Wi-Fi is lost
 - 📟 **IP scroll on boot** — scrolls `IP 192 168 x xxx` across the display after connecting
 
+## UI
+<img width="1920" height="1080" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/3157e82e-431f-49f2-80f7-eeb7355b2a99" />
 
 
 ## Hardware
