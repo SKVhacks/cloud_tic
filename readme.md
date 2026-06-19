@@ -40,12 +40,11 @@ A Wi-Fi connected desk or bedroom clock built on the ESP8266 (Wemos D1 Mini / No
 | TM1637 GND | GND | — |
 | Buzzer (+) | D7 | GPIO13 |
 | Buzzer (−) | GND | — |
-
-
 > **Note:** The buzzer are **active LOW** — they activate when the pin is driven LOW.
 > If your buzzer draws more than ~12 mA, add an NPN transistor (BC547 / 2N2222) between D7 and the buzzer with a 1 kΩ base resistor.
 
-
+## Circuit
+<img width="1634" height="892" alt="image" src="https://github.com/user-attachments/assets/460b5e23-45aa-4d06-a1a1-c9fba9293728" />
 
 ## Flashing the Firmware
 
